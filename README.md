@@ -21,7 +21,7 @@ To use this project locally, follow these steps:
 Clone the Repository:
 bash
 Copy code
-[git clone [https://github.com/your-username/instagram-post-card.git](https://github.com/223877540-KC-Mashele/INSTAGRAM-POST-CARD-HTML-CSS)]
+[git clone https://github.com/223877540-KC-Mashele/INSTAGRAM-POST-CARD-HTML-CSS]
 Navigate to the Project Directory:
 bash
 Copy code
