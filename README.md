@@ -51,8 +51,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Email: your-email@example.com
-GitHub: your-username
-Feel free to customize this README.md with your own project-specific details
+
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/223877540-KC-Mashele/INSTAGRAM-POST-CARD-HTML-CSS)
